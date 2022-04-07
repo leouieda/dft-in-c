@@ -13,6 +13,6 @@ This is an example of the amplitude spectrum calculated for the data in
 
 ## License
 
-gmt-python is free software: you can redistribute it and/or modify it under the
+This is free software: you can redistribute it and/or modify it under the
 terms of the **BSD 3-clause License**. A copy of this license is provided in
 `LICENSE.txt`.
